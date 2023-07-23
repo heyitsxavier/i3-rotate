@@ -1,6 +1,6 @@
 altgraph==0.16.1
 enum-compat==0.0.3
 i3ipc==2.1.1
-PyInstaller==3.5
+PyInstaller==3.6
 python-xlib==0.26
 six==1.13.0
